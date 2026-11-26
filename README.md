@@ -21,7 +21,7 @@ Intelligent Automation Engineer at **Cyborg Automation Hub** in Amman, Jordan. I
 - 🧩 **Appian & BPM:** process models, SAIL interfaces, record types, business rules, integrations, Web APIs and security.
 - 🤖 **RPA:** 20+ Blue Prism processes delivered and supported across banking, government and healthcare.
 - 🔗 **Integration:** REST APIs, web services, .NET services and middleware, so data moves between systems with no copy-paste.
-- 🧠 **Applied AI:** LLM agents, document AI and speech, added where they remove manual work.
+- 🧠 **Applied AI:** LLM agents and document AI, added where they remove manual work.
 - 🛠️ **Production support:** monitoring, debugging and optimizing automations after go-live.
 
 ### 🏅 Certifications

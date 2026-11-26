@@ -41,7 +41,6 @@ Intelligent Automation Engineer at **Cyborg Automation Hub** in Amman, Jordan. I
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/SQL%20Server-A91D22?style=flat-square" alt="SQL Server"/>
